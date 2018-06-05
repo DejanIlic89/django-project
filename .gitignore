@@ -1,0 +1,17 @@
+# Add files here you want to be ignored
+
+# project files
+package-lock.json
+debug.log
+*/logs
+*/logs/selenium-debug.log
+*/screenshots/*
+*/reports/*
+
+# dependencies
+node_modules/*
+
+# misc
+*.DS_Store
+*.idea
+*.vscode
